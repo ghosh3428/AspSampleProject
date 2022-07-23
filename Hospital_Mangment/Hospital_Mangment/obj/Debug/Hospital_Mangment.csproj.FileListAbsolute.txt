@@ -1,0 +1,5 @@
+D:\ASP_PROJECT\Hospital_Mangment\Hospital_Mangment\bin\Hospital_Mangment.dll
+D:\ASP_PROJECT\Hospital_Mangment\Hospital_Mangment\bin\Hospital_Mangment.pdb
+D:\ASP_PROJECT\Hospital_Mangment\Hospital_Mangment\obj\Debug\Hospital_Mangment.csprojResolveAssemblyReference.cache
+D:\ASP_PROJECT\Hospital_Mangment\Hospital_Mangment\obj\Debug\Hospital_Mangment.dll
+D:\ASP_PROJECT\Hospital_Mangment\Hospital_Mangment\obj\Debug\Hospital_Mangment.pdb
